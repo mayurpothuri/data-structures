@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1530446099 source:c:\users\^^ayur\desktop\queue\breadth-first-search\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<list>
+	<algorithm>
+
